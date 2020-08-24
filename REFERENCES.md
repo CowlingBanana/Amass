@@ -147,6 +147,9 @@ Did you write a blog post, magazine article or do a podcast about or mentioning 
   * [Discovering subdomains](https://www.sjoerdlangkemper.nl/2018/06/20/discovering-subdomains/)
 * Blog post on [Adam Toscher's Blog](https://medium.com/@adam.toscher):
   [Top Five Ways the Red Team breached the External Perimeter](https://medium.com/@adam.toscher/top-five-ways-the-red-team-breached-the-external-perimeter-262f99dc9d17)
+* Blog post on hakluke's Blog(https://medium.com/@hakluke):
+  * [Hakluke’s Guide to Amass — How to Use Amass More Effectively for Bug Bounties](https://medium.com/@hakluke/haklukes-guide-to-amass-how-to-use-amass-more-effectively-for-bug-bounties-7c37570b83f7)
+  
 
 ## Lectures and Trainings
 
